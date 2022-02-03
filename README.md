@@ -1,2 +1,0 @@
-# Kickstarter
-# Ready Eddie
